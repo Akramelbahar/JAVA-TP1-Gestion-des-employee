@@ -1,1 +1,1 @@
-DHCPDARGS="enp0s3 enp0s8"  # Replace with your actual interfaces
+https://chatgpt.com/share/67c832da-2110-8006-8be6-cd03b17ce6a3
